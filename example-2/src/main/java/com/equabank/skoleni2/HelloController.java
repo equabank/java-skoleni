@@ -1,4 +1,4 @@
-package skoleni2;
+package com.equabank.skoleni2;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

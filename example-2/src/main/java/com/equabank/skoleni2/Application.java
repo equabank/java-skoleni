@@ -1,4 +1,4 @@
-package skoleni2;
+package com.equabank.skoleni2;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package skoleni2;
+package com.equabank.skoleni4;
 
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;

@@ -11,6 +11,12 @@ import org.springframework.context.annotation.Bean;
 @SpringBootApplication
 public class Example1Application {
 
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return super.toString();
+	}
+	
 	public static void main(String[] args) {
 		SpringApplication.run(Example1Application.class, args);
 	}

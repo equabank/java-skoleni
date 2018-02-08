@@ -9,5 +9,13 @@
     <p th:text="'id: ' + ${greeting.id}" />
     <p th:text="'content: ' + ${greeting.content}" />
     <a href="/greeting">Submit another message</a>
+    <br />
+    <table>
+    	<th:block th:each="user:${seznam}">
+    	<tr>
+    		 <td th:text="${user}"></td>
+    	</tr>
+    	</th:block>
+    </table>
 </body>
 </html>

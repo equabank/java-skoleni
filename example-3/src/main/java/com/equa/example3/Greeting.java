@@ -1,5 +1,7 @@
 package com.equa.example3;
-
+/**
+ * Simple data holder.
+ */
 public class Greeting {
 
 	private long id;
